@@ -1,4 +1,4 @@
-# online-shopping-webvsite-in-php
+# online-shopping-website-in-php
 
 Shopping Cart System is the Simple shopping Solution. It’s a full-featured website and shopping cart system that bends over backwards to give you the flexibility you need to runyour online store.
 
@@ -43,12 +43,5 @@ XAMPP Server
 Database Configuration:
 Open phpmyadmin
 Create Database named “store”.
-Import database store.sql.
-Open Your browser put inside URL:
-“http://localhost/online-shoping/”
-To Login as admin put inside URL:”http://localhost/store”
-user login details:
-Login Id: yugeshverma@gmail.com
-Password:123456
 
 
